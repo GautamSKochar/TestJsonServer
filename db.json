@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "name": "Gautam" },
+    { "id": 2, "name": "User 2" },
+    { "id": 3, "name": "User 3" }
+  ],
+  "servers": [
+    { "id": 1, "name": "some comment", "status": 1 },
+    { "id": 2, "name": "some comment", "status": 1 }
+  ]
+}
